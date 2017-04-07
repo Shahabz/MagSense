@@ -1,0 +1,136 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp.dll
+-r:E:/Unity_Install_Dump/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Managed/UnityEngine.dll
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:Assets/Plugins.Managed/libpxcclr.unity.dll
+-define:UNITY_4_5_0
+-define:UNITY_4_5
+-define:UNITY_STANDALONE_WIN
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_NEW_HIERARCHY 
+-define:ENABLE_AUDIO_FMOD
+-define:UNITY_STANDALONE
+-define:ENABLE_MONO
+-define:ENABLE_TERRAIN
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GENERICS
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_MOVIES
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:UNITY_PRO_LICENSE
+Assets/Elementals/Scripts/OrbitCamera.cs
+Assets/Elementals/Scripts/TestParticles.cs
+Assets/FT_FreeSample/Script/Button.cs
+Assets/RSUnityToolkit/Actions/ActivateAction.cs
+Assets/RSUnityToolkit/Actions/BlendShapeAnimationAction.cs
+Assets/RSUnityToolkit/Actions/DeactivateAction.cs
+Assets/RSUnityToolkit/Actions/DisableBehaviorAction.cs
+Assets/RSUnityToolkit/Actions/EnableBehaviorAction.cs
+Assets/RSUnityToolkit/Actions/HideAction.cs
+Assets/RSUnityToolkit/Actions/RotationAction.cs
+Assets/RSUnityToolkit/Actions/ScaleAction.cs
+Assets/RSUnityToolkit/Actions/SendMessageAction.cs
+Assets/RSUnityToolkit/Actions/ShowAction.cs
+Assets/RSUnityToolkit/Actions/TrackingAction.cs
+Assets/RSUnityToolkit/Actions/TranslateAction.cs
+"Assets/RSUnityToolkit/Internals/Actions Utils/BaseAction.cs"
+"Assets/RSUnityToolkit/Internals/Actions Utils/Bool3D.cs"
+"Assets/RSUnityToolkit/Internals/Actions Utils/CameraARCalibation.cs"
+"Assets/RSUnityToolkit/Internals/Actions Utils/Draw3DSegmentation.cs"
+"Assets/RSUnityToolkit/Internals/Actions Utils/DrawImages.cs"
+"Assets/RSUnityToolkit/Internals/Actions Utils/MinMax2D.cs"
+"Assets/RSUnityToolkit/Internals/Actions Utils/PointCloudViewer.cs"
+"Assets/RSUnityToolkit/Internals/Actions Utils/RotationConstraints.cs"
+"Assets/RSUnityToolkit/Internals/Actions Utils/RotationMax2D.cs"
+"Assets/RSUnityToolkit/Internals/Actions Utils/ScaleConstraints.cs"
+"Assets/RSUnityToolkit/Internals/Actions Utils/SmoothingUtility.cs"
+"Assets/RSUnityToolkit/Internals/Actions Utils/Transformation3D.cs"
+"Assets/RSUnityToolkit/Internals/Actions Utils/VirtualWorldBoxAction.cs"
+Assets/RSUnityToolkit/Internals/Debug/DebugAction.cs
+Assets/RSUnityToolkit/Internals/HiddenBehaviour.cs
+Assets/RSUnityToolkit/Internals/RealSenseInput/MCTTypes.cs
+Assets/RSUnityToolkit/Internals/RealSenseInput/SenseOption.cs
+Assets/RSUnityToolkit/Internals/RealSenseInput/SenseToolkitManager.cs
+Assets/RSUnityToolkit/Internals/RealSenseInput/SenseToolkitSpeechManager.cs
+Assets/RSUnityToolkit/Internals/Rules/AlwaysTrueRule.cs
+Assets/RSUnityToolkit/Internals/Rules/BaseRule.cs
+Assets/RSUnityToolkit/Internals/Rules/BlobDetectedRule.cs
+Assets/RSUnityToolkit/Internals/Rules/BlobLostRule.cs
+Assets/RSUnityToolkit/Internals/Rules/BlobTrackingRule.cs
+Assets/RSUnityToolkit/Internals/Rules/FaceDetectedRule.cs
+Assets/RSUnityToolkit/Internals/Rules/FaceLostRule.cs
+Assets/RSUnityToolkit/Internals/Rules/FaceTrackingRule.cs
+Assets/RSUnityToolkit/Internals/Rules/FacialExpressionAnimationRule.cs
+Assets/RSUnityToolkit/Internals/Rules/FacialExpressionDetectedRule.cs
+Assets/RSUnityToolkit/Internals/Rules/FacialExpressionLostRule.cs
+Assets/RSUnityToolkit/Internals/Rules/GestureDetectedRule.cs
+Assets/RSUnityToolkit/Internals/Rules/GestureLostRule.cs
+Assets/RSUnityToolkit/Internals/Rules/HandClosedRule.cs
+Assets/RSUnityToolkit/Internals/Rules/HandDetectedRule.cs
+Assets/RSUnityToolkit/Internals/Rules/HandLostRule.cs
+Assets/RSUnityToolkit/Internals/Rules/HandMoveRule.cs
+Assets/RSUnityToolkit/Internals/Rules/HandOpennedRule.cs
+Assets/RSUnityToolkit/Internals/Rules/HandTrackingRule.cs
+Assets/RSUnityToolkit/Internals/Rules/ObjectDetectedRule.cs
+Assets/RSUnityToolkit/Internals/Rules/ObjectLostRule.cs
+Assets/RSUnityToolkit/Internals/Rules/ObjectTrackingRule.cs
+Assets/RSUnityToolkit/Internals/Rules/SpeechDetectedRule.cs
+Assets/RSUnityToolkit/Internals/Rules/TwoHandsDetectedRule.cs
+Assets/RSUnityToolkit/Internals/Rules/TwoHandsInteractionRule.cs
+Assets/RSUnityToolkit/Internals/Rules/TwoHandsLostRule.cs
+Assets/RSUnityToolkit/Internals/Rules/Utils/BlobUtilityClass.cs
+Assets/RSUnityToolkit/Internals/Rules/Utils/SpeechCommand.cs
+Assets/RSUnityToolkit/Internals/Rules/Utils/TrackingUtilityClass.cs
+Assets/RSUnityToolkit/Internals/Triggers/AnimationTrigger.cs
+Assets/RSUnityToolkit/Internals/Triggers/EventTrigger.cs
+Assets/RSUnityToolkit/Internals/Triggers/RotationTrigger.cs
+Assets/RSUnityToolkit/Internals/Triggers/ScaleTrigger.cs
+Assets/RSUnityToolkit/Internals/Triggers/TrackTrigger.cs
+Assets/RSUnityToolkit/Internals/Triggers/TranslationTrigger.cs
+Assets/RSUnityToolkit/Internals/Triggers/Trigger.cs
+Assets/RSUnityToolkit/Samples/SampleTriggerRegistration.cs
+Assets/RSUnityToolkit/Samples/TargetCounter.cs
+Assets/Scripts/ARDisplay.cs
+Assets/Scripts/ChooseGlasses.cs
+Assets/Scripts/CreateGlasses.cs
+Assets/Scripts/EyeGlassesMenu.cs
+Assets/Scripts/FaceTrack.cs
+Assets/Scripts/FadeInOutObjects.cs
+Assets/Scripts/ForeverTurn.cs
+Assets/Scripts/GameTitleFade.cs
+Assets/Scripts/HoldAtOrigin.cs
+Assets/Scripts/LaunchItem.cs
+Assets/Scripts/LaunchPadSmoke.cs
+Assets/Scripts/LaunchRocket.cs
+Assets/Scripts/MainMenuItems.cs
+Assets/Scripts/MoveParticleUp.cs
+Assets/Scripts/MoveUpLerp.cs
+Assets/Scripts/PageDetection.cs
+Assets/Scripts/PageTrack.cs
+Assets/Scripts/RocketLaunchMenu.cs
+Assets/Scripts/SceneFade.cs
+Assets/Scripts/SceneTransit.cs
+Assets/Scripts/SeaWorldMenu.cs
+Assets/Scripts/TransitMenu.cs
+Assets/Scripts/TunaDrop.cs
+Assets/Scripts/TunaHandle.cs
+-r:E:/Unity_Install_Dump/Editor/Data/Mono\lib/mono/unity\System.Runtime.Serialization.dll
+-r:E:/Unity_Install_Dump/Editor/Data/Mono\lib/mono/unity\System.Xml.Linq.dll
